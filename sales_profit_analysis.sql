@@ -174,14 +174,14 @@ GROUP BY Category;
 
 
 -------------------------------------------------------
--- 5. INSIGHTS (FOR README)
+-- 5. INSIGHTS 
 -------------------------------------------------------
 
 /*
 - Furniture category shows weaker profitability
 - "Tables" is the main loss-driving sub-category
 - Losses vary by region → possible logistics/pricing issue
-- High revenue ≠ high profit → margin matters
+- High revenue ≠ , high profit → margin matters
 
 RECOMMENDATIONS:
 - Adjust pricing strategy
